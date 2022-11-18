@@ -1,0 +1,10 @@
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/entities/Phone.java
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/ldap/LdapConnector.java
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/entities/User.java
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/mysql/MySQLConnector.java
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/main/Main.java
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/entities/Contact.java
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/entities/LDAPEntity.java
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/entities/Company.java
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/config/ApplicationConfig.java
+/Users/andreirosucojocaru/eclipse-workspace/mysql-to-ldap-converter/src/main/java/com/sample/entities/Owner.java

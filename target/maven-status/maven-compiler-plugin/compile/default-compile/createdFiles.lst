@@ -1,0 +1,10 @@
+com/sample/entities/Owner.class
+com/sample/config/ApplicationConfig.class
+com/sample/entities/LDAPEntity.class
+com/sample/main/Main.class
+com/sample/entities/User.class
+com/sample/entities/Phone.class
+com/sample/entities/Contact.class
+com/sample/entities/Company.class
+com/sample/ldap/LdapConnector.class
+com/sample/mysql/MySQLConnector.class
